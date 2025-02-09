@@ -1,3 +1,7 @@
+
+CloudFront Deployment Link: https://d2zbelwxygnniz.cloudfront.net/
+S3 Bucket Deployment Link: http://my-first-react-shop.s3-website.us-east-2.amazonaws.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
